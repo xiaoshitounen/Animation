@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:valueType="intType"
+    android:valueFrom="231"
+    android:valueTo="500"
+
+    android:duration="1000"
+    android:startOffset="1000"
+    android:repeatCount="1"
+    android:repeatMode="restart"
+    />

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_change_animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/frame_animation_java" />
+            <option value="$PROJECT_DIR$/frame_animation_xml" />
+            <option value="$PROJECT_DIR$/interpolator" />
+            <option value="$PROJECT_DIR$/property_object_example_one" />
+            <option value="$PROJECT_DIR$/property_object_example_two" />
+            <option value="$PROJECT_DIR$/property_object_java" />
+            <option value="$PROJECT_DIR$/property_object_set" />
+            <option value="$PROJECT_DIR$/property_object_xml" />
+            <option value="$PROJECT_DIR$/property_value_java" />
+            <option value="$PROJECT_DIR$/property_value_xml" />
+            <option value="$PROJECT_DIR$/tween_animation_java" />
+            <option value="$PROJECT_DIR$/tween_animation_xml" />
+            <option value="$PROJECT_DIR$/typeevaluator" />
+            <option value="$PROJECT_DIR$/view_property_animator" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

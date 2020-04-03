@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="1.TranslateAnimation"
+        android:onClick="TranslateAnimation"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="2.ScaleAnimation"
+        android:onClick="ScaleAnimation"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="3.RotateAnimation"
+        android:onClick="RotateAnimation"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="4.AlphaAnimation"
+        android:onClick="AlphaAnimation"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="5.AnimationSet"
+        android:onClick="AnimationSet"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>

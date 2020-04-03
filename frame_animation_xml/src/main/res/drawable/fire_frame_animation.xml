@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    oneshot:动画执行次数
+    true: 执行一次
+    false:执行无数次
+    -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <!--
+        item:每个item对应一帧
+        drawable:配置当前这一帧显示的图片
+        duration:配置当前这一帧显示的时长 单位 ms
+        -->
+    <item android:drawable="@drawable/campfire01" android:duration="200"/>
+    <item android:drawable="@drawable/campfire02" android:duration="200"/>
+    <item android:drawable="@drawable/campfire03" android:duration="200"/>
+    <item android:drawable="@drawable/campfire04" android:duration="200"/>
+    <item android:drawable="@drawable/campfire05" android:duration="200"/>
+    <item android:drawable="@drawable/campfire06" android:duration="200"/>
+    <item android:drawable="@drawable/campfire07" android:duration="200"/>
+    <item android:drawable="@drawable/campfire08" android:duration="200"/>
+    <item android:drawable="@drawable/campfire09" android:duration="200"/>
+    <item android:drawable="@drawable/campfire10" android:duration="200"/>
+    <item android:drawable="@drawable/campfire11" android:duration="200"/>
+    <item android:drawable="@drawable/campfire12" android:duration="200"/>
+    <item android:drawable="@drawable/campfire13" android:duration="200"/>
+    <item android:drawable="@drawable/campfire14" android:duration="200"/>
+    <item android:drawable="@drawable/campfire15" android:duration="200"/>
+    <item android:drawable="@drawable/campfire16" android:duration="200"/>
+    <item android:drawable="@drawable/campfire17" android:duration="200"/>
+</animation-list>
