@@ -2,7 +2,7 @@
 
 ### Android:三大动画
 
-博客：[Android中的三大动画](https://fanandjiu.com/Android%E4%B8%AD%E7%9A%84%E4%B8%89%E5%A4%A7%E5%8A%A8%E7%94%BB/#more)
+博客：[Android中的三大动画](http://www.fanandjiu.com/article/e876b230.html)
 
 - **frame_animation_java:逐帧动画 Java实现**
 
